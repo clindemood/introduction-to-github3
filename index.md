@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Chad Lindemood: Welcome to my github
 ---
 
